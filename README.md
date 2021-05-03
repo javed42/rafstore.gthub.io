@@ -1,4 +1,4 @@
-## Welcome to 
+## WELCOME 
 
 
 **AMAZON AND FLPKART DEALS**
@@ -6,7 +6,7 @@
 
 **Hp i3 11th gen laptop**
 
-[Link](https://amzn.to/3ee38pf) and ![Image](src)
+[Link](https://amzn.to/3ee38pf) and !hplaptop.jpg(src)
 
 
 ### Support or Contact
