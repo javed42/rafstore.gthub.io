@@ -9,7 +9,7 @@
 
    <body>
       <h1>HP i3 11th gen laptop</h1>
-        <img src="hplaptop.jpg" alt="Trulli" width="200" height="90s"/>
+        <img src="hplaptop.jpg" alt="Trulli" width="300" height="90"/>
    </body>
 </html>
 
