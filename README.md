@@ -1,14 +1,7 @@
-## Welcome to Daily deals
-
-
-### Markdown
+## Welcome to 
 
 
 **AMAZON AND FLPKART DEALS**
-
-# Header 1
-## Header 2
-### Header 3
 
 
 **Bold** and _Italic_ and `Code` text
