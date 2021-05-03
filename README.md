@@ -6,7 +6,16 @@
 
 **Hp i3 11th gen laptop**
 
+
+**Amazon**
+
 [Link](https://www.amazon.in/gp/product/B08XY3843B/ref=as_li_tl?ie=UTF8&tag=rafstore-21&camp=3638&creative=24630&linkCode=as2&creativeASIN=B08XY3843B&linkId=5ba612186936affa8f4a4dfad9857825) and !hplaptop.jpg(src)
+
+
+**In flipkart**
+
+
+[Link](http://fkrt.it/N6QJy8uuuN)
 
 
 ### Support or Contact
