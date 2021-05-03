@@ -1,15 +1,13 @@
 
 
-```markdown
-Syntax highlighted code block
+**ONLINE  DEALS **
+**flipkart** & **Amazon**
 
-Online Deals
-for flipkart & Amazon
-
-- Bulleted
-- List
-- https://amzn.to/3eeoRgI
-- https://amzn.to/3f4jksH
+- 
+- Hp 15 i3 11th gen octacore laptop
+- (https://amzn.to/3eeoRgI/)
+- OnePlus 9R 5G
+-( https://amzn.to/3f4jksH/)
 
 
 ### Support or Contact
