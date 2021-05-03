@@ -5,9 +5,7 @@
 
 
 <html>
-   <head>
-      <title>Hp i3 11th gen laptop</title>
-   </head>
+   <body>
 
    <body>
       <h1>HP i3 11th gen laptop</h1>
@@ -26,17 +24,6 @@
 
 
 [Link](http://fkrt.it/N6QJy8uuuN)
-
-<html>
-   <head>
-      <title>Hp i3 11th gen laptop</title>
-   </head>
-
-   <body>
-      <h1>HP i3 11th gen laptop</h1>
-        <img src="hplaptop.jpg" alt="Trulli" width="200" height="90s"/>
-   </body>
-</html>
 
 
 ### Support or Contact
