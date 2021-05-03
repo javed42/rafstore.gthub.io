@@ -6,7 +6,7 @@
 
 <html>
    <body>
-      <h1>HP i3 11th gen laptop</h1>
+      <h1>--> HP i3 11th gen laptop</h1>
         <img src="hplaptop.jpg" alt="Trulli" width="150" height="75"/>
    </body>
 </html>
@@ -15,7 +15,7 @@
 
 **Amazon**
 
-[Link](https://www.amazon.in/gp/product/B08XY3843B/ref=as_li_tl?ie=UTF8&tag=rafstore-21&camp=3638&creative=24630&linkCode=as2&creativeASIN=B08XY3843B&linkId=5ba612186936affa8f4a4dfad9857825)[srg]
+[Link](https://www.amazon.in/gp/product/B08XY3843B/ref=as_li_tl?ie=UTF8&tag=rafstore-21&camp=3638&creative=24630&linkCode=as2&creativeASIN=B08XY3843B&linkId=5ba612186936affa8f4a4dfad9857825)
 
 
 **In flipkart**
