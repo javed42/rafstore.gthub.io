@@ -4,7 +4,17 @@
 **AMAZON AND FLPKART DEALS**
 
 
-**Hp i3 11th gen laptop**
+<html>
+   <head>
+      <title>Hp i3 11th gen laptop</title>
+   </head>
+
+   <body>
+      <h1>HP i3 11th gen laptop</h1>
+        <img src="hplaptop.jpg" alt="Trulli" width="200" height="90s"/>
+   </body>
+</html>
+
 
 
 **Amazon**
@@ -24,11 +34,7 @@
 
    <body>
       <h1>HP i3 11th gen laptop</h1>
-        <img src="hplaptop.jpg" alt="Trulli" width="200" height="90s">
-
-      <p>
-         here the link  <a href="">https://amzn.to/3b0ASVj</a> to buy.
-      </p>
+        <img src="hplaptop.jpg" alt="Trulli" width="200" height="90s"/>
    </body>
 </html>
 
