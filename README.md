@@ -4,15 +4,10 @@
 **AMAZON AND FLPKART DEALS**
 
 
-**Bold** and _Italic_ and `Code` text
+**Hp i3 11th gen laptop**
 
 [Link](https://amzn.to/3ee38pf) and ![Image](src)
-```
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/javed42/rafstore.gthub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
