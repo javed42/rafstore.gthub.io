@@ -32,6 +32,8 @@
    
    [Link](http://fkrt.it/tn2yhhNNNN)
    
+**Amazon**
+[Link](https://amzn.to/3eXN62e)
    
 ### Support or Contact
 
