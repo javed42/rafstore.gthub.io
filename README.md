@@ -25,7 +25,7 @@
 
 <html>
    <body>
-      <h1> >>>SleepX Dual Medium Soft Foam Mattress
+      <h1> >>>SleepX Dual Medium Soft Foam Mattress </h1>
     </body>
  </html>
    
