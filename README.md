@@ -25,11 +25,13 @@
 
 <html>
    <body>
-      <h1> >>>SleepX Dual Medium Soft & Hard 6 inch Double High Density (HD) Foam Mattress
+      <h1> >>>SleepX Dual Medium Soft Foam Mattress
          </body>
       </html>
    
+   
    [Link](http://fkrt.it/tn2yhhNNNN)
+   
    
 ### Support or Contact
 
