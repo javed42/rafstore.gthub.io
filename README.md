@@ -35,6 +35,28 @@
 **Amazon**
 
 [Link](https://amzn.to/3eXN62e)
+
+**Amazon**
+
+<html>
+   <body>
+      <h1> >>>Samsung 125 cm (50 inches) Crystal 4K Series Ultra HD Smart LED TV</h1>
+    </body>
+ </html>
+ 
+ [Link](https://amzn.to/33e14Ht)
+ 
+**Flipkart**
+
+ <html>
+   <body>
+      <h1> >>>LG All-in-One 126 cm (50 inch) Ultra HD (4K) LED Smart TV</h1>
+    </body>
+ </html>
+ 
+ 
+[Link](http://fkrt.it/ienR6vNNNN)
+
    
 ### Support or Contact
 
