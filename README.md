@@ -6,7 +6,7 @@
 <html>
    <body>
       <h1> >>> HP i3 11th gen laptop</h1>
-        <img src="hplaptop.jpg" alt="Trulli" width="150" height="75"/>
+     <meta><img src="hplaptop.jpg" alt="Trulli" width="150" height="75"/></meta>
    </body>
 </html>
 
