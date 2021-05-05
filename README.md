@@ -3,11 +3,24 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+<style>
+* {
+  box-sizing: border-box;
+}
 
-<h2>Setting the Viewport</h2>
-<p>This example does not really do anything, other than showing you how to add the viewport meta element.</p>
+.left {
+  background-color: #2196F3;
+  padding: 20px;
+  float: left;
+  width: 20%; /* The width is 20%, by default */
+}
+
+.main {
+  background-color: #f1f1f1;
+  padding: 20px;
+  float: left;
+  width: 60%; /* The width is 60%, by default */
+}
 
 </body>
 </html>
