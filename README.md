@@ -1,6 +1,6 @@
 <html>
    <body>
-      <link rel="sicon" type="png" href="download.png"/>
+      <img src="hplaptop.jpg" alt="Trulli" width="500" height="30"/>
    </body>
    </html>
  
