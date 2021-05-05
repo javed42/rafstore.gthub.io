@@ -1,6 +1,6 @@
 <html>
    <body>
-      <img src="hplaptop.jpg" alt="Trulli" width="500" height="30"/>
+      <img src="download.png" alt="Trulli" width="1000" height="200"/>
    </body>
    </html>
  
