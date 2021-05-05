@@ -1,30 +1,4 @@
-## WELCOME 
-
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.left {
-  background-color: #2196F3;
-  padding: 20px;
-  float: left;
-  width: 20%; /* The width is 20%, by default */
-}
-
-.main {
-  background-color: #f1f1f1;
-  padding: 20px;
-  float: left;
-  width: 60%; /* The width is 60%, by default */
-}
-
-</body>
-</html>
-
+                                                        ## WELCOME TO 
 
 **AMAZON AND FLPKART DEALS**
 
