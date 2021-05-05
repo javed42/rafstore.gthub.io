@@ -4,8 +4,8 @@
    </body>
    </html>
  
- **WELCOME TO**
-
+ 
+ 
 **AMAZON AND FLPKART DEALS**
 
 
@@ -67,7 +67,7 @@
 
 **MD RAFEE**
 
-**MOBILE NO**: 8919000012
+**Mobile no**: 8919000012
 
 **Mail** :rafeemd14@gmail.com
 
